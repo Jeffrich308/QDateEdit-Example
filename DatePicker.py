@@ -9,7 +9,7 @@
 # Required Packages:    PyQt5, PyQt5-Tools, enable the popup option in Designer
 # -------------------------------------------------------------------------------
 
-from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QAction, QLabel, QDateEdit, QDateTimeEdit
+from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QAction, QLabel, QDateEdit
 from PyQt5 import uic
 import sys
 from datetime import date
